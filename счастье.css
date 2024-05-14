@@ -1,0 +1,57 @@
+a {
+	text-decoration: none;
+	color:black;
+}
+
+ul {
+	list-style-type: none;
+	
+}
+*{
+	margin:24;
+	padding:0;
+	
+}
+main{
+	width:1200px;
+	margin: 0 auto;
+	background-color:gray;
+}
+.menu{
+	width:850px;
+	font-size:25px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-style:solid;
+	color:black;
+	
+}
+h1{
+	color:white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+p{
+	color:white;
+}
+h4{
+	color:white;
+}
+	
+
+.opisanie{
+	color:black;
+}
+.un{
+	margin-top:70;
+}
+.chon{
+	margin-top:70;
+}
+.han{
+	margin-top:70;
+}
